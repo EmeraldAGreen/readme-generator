@@ -18,7 +18,7 @@ This is a command line application to generate a README.md file. The README incl
 Install node.js, then open an integrated terminal in your coding application. This application uses the [Inquirer package](https://www.npmjs.com/package/inquirer). Enter "node index.js" in the command line to start the application.
 
 ## Usage
-Answer the prompts, and a README.md file will be generated.
+Answer the prompts, and a README.md file will be generated. https://drive.google.com/file/d/1wNVN1etKCYSrQ801Xu_lJmIBbM2FaJaK/view
 
 ## License
 This project is licensed under  MIT.
